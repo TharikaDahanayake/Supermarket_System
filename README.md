@@ -10,5 +10,7 @@ Java
 Text Editor - NetBeans
 Database - MySQL
 
-Thank You Guys & Good Luck!
-Best Regards, Tharika Dahanayake
+#### Thank You Guys & Good Luck!!
+
+Best Regards,
+**_Tharika Dahanayake_**
