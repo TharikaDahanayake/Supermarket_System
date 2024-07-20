@@ -6,9 +6,9 @@ You all need to be familiar with Java in order to create this supermarket manage
 
 The technologies I've used :
 
-Java
-Text Editor - NetBeans
-Database - MySQL
+- Java
+- Text Editor - NetBeans
+- Database - MySQL
 
 #### Thank You Guys & Good Luck!!
 
